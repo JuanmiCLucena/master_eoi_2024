@@ -1,0 +1,9 @@
+
+¡	java:S116	"ZRename this field "peso_plataforma" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞïÒ˜şÿÿÿÿ8ú  íî1J$3285f739-6dff-4884-9a12-2aa950ea42ca
+œ	java:S116"URename this field "peso_total" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãÊéàøÿÿÿÿ8ú  íî1J$ebc154ab-c713-4623-836d-4af4cfaedf78
+ 	java:S116"YRename this field "asientos_cuero" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë•ï¶ıÿÿÿÿ8ƒ®¢íî1J$e6441bb8-a09c-41ac-9b84-84aa1e00e1a8
+Š
+java:S1659"BDeclare "largo" and all following declarations on a separate line.(Š»±êÿÿÿÿÿ8û  íî1J$e2a81373-2d5c-4b90-8298-d98297c79a8c
+r
+java:S1659"*Declare "climatizador" on a separate line.(Ë•ï¶ıÿÿÿÿ8„®¢íî1J$b14f1ce3-06b4-4040-b9b2-2a9e0caf5e42
+	java:S100+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»”®ú8ü  íî1J$25dd72db-a60b-4811-94ae-f8ee111cd75e
