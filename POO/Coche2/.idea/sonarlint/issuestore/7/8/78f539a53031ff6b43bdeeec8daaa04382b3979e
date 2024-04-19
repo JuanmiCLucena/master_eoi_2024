@@ -1,0 +1,13 @@
+
+“	java:S117;"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹Æİ·8¯ò‚ºï1J$ad0fcf8d-d3bd-413a-9afa-c17e135e4ef9
+“	java:S117W"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê­ÎŒ8¯ò‚ºï1J$5e3bae89-ce2f-4bfb-b13c-1562cb8c3d59
+“	java:S117g"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï‡½Å8¯ò‚ºï1J$5499a4e0-0c96-4abf-8377-5036315af5bc
+¡	java:S116"ZRename this field "peso_plataforma" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞïÒ˜şÿÿÿÿ8µò‚ºï1J$2b6d2d39-92a1-404f-a2c6-8fbd85244baf
+œ	java:S116"URename this field "peso_total" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôÕÙ»øÿÿÿÿ8µò‚ºï1J$c3470ca4-2e12-4045-9fc0-4ffa4e4822d2
+›	java:S116"YRename this field "asientos_cuero" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âÙøê8µò‚ºï1J$f6c26abb-e80e-4712-b8ed-3de41427f276
+Š
+java:S1659"BDeclare "largo" and all following declarations on a separate line.(Š»±êÿÿÿÿÿ8¶ò‚ºï1J$832cc02c-0452-4c06-9297-8e5c6fbf625f
+m
+java:S1659"*Declare "climatizador" on a separate line.(âÙøê8¶ò‚ºï1J$d7291606-efd6-4f12-82c0-d0611221ef24
+	java:S100,"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»”®ú8¸ò‚ºï1J$9c7e444f-9ac0-43a4-b017-7aaf9627fc3f
+	java:S100;"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹Æİ·8¹ò‚ºï1J$723b1df4-df5c-4fbe-86fc-45d050297016
