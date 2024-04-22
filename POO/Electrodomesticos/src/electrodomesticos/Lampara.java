@@ -25,7 +25,6 @@ public class Lampara extends Electrodomestico{
 
         if (nuevaIntensidad >= 0 && nuevaIntensidad <= 100) {
             intensidad = nuevaIntensidad;
-            System.out.println("Nueva intensidad ajustada a " + intensidad + ".");
         } else {
             System.out.println("Intensidad inválida. Debe estar entre 0 y 100.");
         }
@@ -36,17 +35,20 @@ public class Lampara extends Electrodomestico{
     public void cambiarColor(String nuevoColor) {
 
         color = nuevoColor;
-
         System.out.println("Color de la lámpara cambiado a " + color + ".");
 
     }
 
     // Método para obtener el estado actual de la lámpara
     public String obtenerEstado() {
-
-        return "Lámpara " + (this.isEncendido() ? "encendida" : "apagada") +
-
-                ", Intensidad: " + intensidad + ", Color: " + color;
+        // Verificar si el horno está encendido
+        if (this.isEncendido()) {
+            // Si está encendido, mostrar la temperatura actual
+            return "Lámpara encendida, Intensidad: " + intensidad + ", Color: " + color;
+        } else {
+            // Si está apagado, mostrar la temperatura como 0
+            this.cambiarIntensidad(0);
+            return "Lámpara apagada, Intensidad: " + intensidad + ", Sin Color";
+        }
     }
-
 }

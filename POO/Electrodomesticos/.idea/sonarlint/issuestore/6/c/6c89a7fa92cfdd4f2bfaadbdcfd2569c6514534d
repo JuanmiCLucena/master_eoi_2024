@@ -1,7 +1,7 @@
 
-f	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’å°
-l	java:S116"RRename this field "tamaÃ±o" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤ìÁ£úÿÿÿÿ
-B
-java:S1659"'Declare "tipoPanel" on a separate line.(öÀ˜ßşÿÿÿÿ
-h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıªì¥şÿÿÿÿ
-c	java:S100 "NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’å°
+“	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’å°8µ³Çµï1J$7860911c-49e4-4bed-a907-ae057242d5ab
+’	java:S116"RRename this field "tamaÃ±o" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤ìÁ£úÿÿÿÿJ$9453d60e-e0c7-4fc6-8661-0481fccb3d42
+h
+java:S1659"'Declare "tipoPanel" on a separate line.(öÀ˜ßşÿÿÿÿJ$2d0bdfd3-ba0f-4115-8f95-6b669fde7503
+	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıªì¥şÿÿÿÿJ$fe57893f-5392-4488-85ed-0495b7a46050
+‰	java:S100 "NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’å°J$0f2c9ccb-5d39-4139-83c1-9580b78c5d40

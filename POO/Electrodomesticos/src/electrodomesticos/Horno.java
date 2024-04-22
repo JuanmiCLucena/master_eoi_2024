@@ -32,7 +32,15 @@ public class Horno extends Electrodomestico {
 
     // Método para ver el estado actual del Horno.
     public String obtenerEstado() {
-        return "Horno " + (this.isEncendido() ? "encendido" : "apagado")
-                + ", Temperatura: " + temperatura + "°C, Capacidad: " + capacidad + " litros";
+        // Verificar si el horno está encendido
+        if (this.isEncendido()) {
+            // Si está encendido, mostrar la temperatura actual
+            return "Horno encendido, Temperatura: " + temperatura + "°C, Capacidad: " + capacidad + " litros";
+        } else {
+            // Si está apagado, mostrar la temperatura como 0
+            this.setTemperatura(0);
+            return "Horno apagado, Temperatura: " + temperatura + "°C, Capacidad: " + capacidad + " litros";
+        }
     }
+
 }

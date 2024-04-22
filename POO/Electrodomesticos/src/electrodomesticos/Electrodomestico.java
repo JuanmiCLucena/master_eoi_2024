@@ -15,13 +15,13 @@ public class Electrodomestico {
     // Método para encender el Electrodoméstico.
     public void encender() {
         encendido = true;
-        System.out.println("Lámpara encendida.");
+        System.out.println("Encendiendo Electrodoméstico.");
     }
 
     // Método para apagar el Electrodoméstico.
     public void apagar() {
         encendido = false;
-        System.out.println("Lámpara apagada.");
+        System.out.println("Apagando Electrodoméstico.");
     }
 
     // Getters.
@@ -29,8 +29,4 @@ public class Electrodomestico {
         return encendido;
     }
 
-    // Setters.
-    public void setEncendido(boolean encendido) {
-        this.encendido = encendido;
-    }
 }

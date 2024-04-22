@@ -7,11 +7,12 @@ public class Main {
         Lampara lampara = new Lampara();
         System.out.println(lampara.obtenerEstado());
 
-        // lampara.setEncendido(false);
-        // System.out.println(lampara.obtenerEstado());
+        lampara.apagar();
+        System.out.println(lampara.obtenerEstado());
 
         // Instanciamos el objeto horno.
         Horno horno = new Horno();
+        horno.apagar();
         System.out.println(horno.obtenerEstado()); // Mostramos sus atributos.
 
         // Instanciamos el objeto televisión.
